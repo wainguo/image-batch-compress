@@ -1,0 +1,23 @@
+{
+  "name": "imageCompress",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "webpack-cli": "^3.3.10",
+    "webpack": "^4.41.2"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^4.2.0",
+    "image-webpack-loader": "^6.0.0",
+    "imageinfo": "^1.0.4"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
