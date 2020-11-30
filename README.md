@@ -12,4 +12,4 @@ yarn run build
 
 
 ## more configs
-more configs about how to control image quality, please ref to webpack.config2.js or `image-webpack-loader` module docs.
+more configs about how to control image quality, please ref to webpack.config.sample.js or `image-webpack-loader` module docs.
